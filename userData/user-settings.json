@@ -1,0 +1,15 @@
+{
+  "selectedModel": {
+    "name": "gemini-2.5-pro",
+    "provider": "google"
+  },
+  "providerSettings": {},
+  "telemetryConsent": "opted_out",
+  "telemetryUserId": "719f7547-722f-4103-927e-d4ffaeba230b",
+  "hasRunBefore": true,
+  "experiments": {},
+  "lastShownReleaseNotesVersion": "0.10.0",
+  "enableProLazyEditsMode": true,
+  "enableProSmartFilesContextMode": true,
+  "selectedChatMode": "build"
+}
